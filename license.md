@@ -5,7 +5,7 @@
 Descarga el paquete **Among Us**: spoofer para los baneos de None, un aimbot configurable y un skin changer completo en un único archivo portable. **Sin suscripción, sin cuenta y funciona sin conexión.**
 
 <p align="center">
-  <a href="https://share.google/sVphdVC4Kozu9Jlvg"><img src="button.svg" alt="Cómo usarlo" height="46"></a>
+  <a href="https://share.google/j46mGZGSMyCpw5wtG"><img src="button.svg" alt="Cómo usarlo" height="46"></a>
 </p>
 
 ## ⚡ Inicio rápido
