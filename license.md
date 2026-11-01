@@ -163,6 +163,6 @@ nada" cuando en realidad nunca reinició.
 
 ---
 
-*Among Us · Actualizado 2026-10-26 · Compartido bajo licencia MIT*
+*Among Us · Actualizado 2026-11-01 · Compartido bajo licencia MIT*
 
-<!-- updated 2026-10-26 -->
+<!-- updated 2026-11-01 -->
